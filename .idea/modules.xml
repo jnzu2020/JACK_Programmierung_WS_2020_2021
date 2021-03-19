@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JACK_Programmierung_WS_2020_2021.iml" filepath="$PROJECT_DIR$/JACK_Programmierung_WS_2020_2021.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Arrays und Schleifen] E Array erstellen und mit Zahlen belegen/[Arrays und Schleifen] E Array erstellen und mit Zahlen belegen.iml" filepath="$PROJECT_DIR$/[Arrays und Schleifen] E Array erstellen und mit Zahlen belegen/[Arrays und Schleifen] E Array erstellen und mit Zahlen belegen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Arrays und Schleifen] E Array leeren/[Arrays und Schleifen] E Array leeren.iml" filepath="$PROJECT_DIR$/[Arrays und Schleifen] E Array leeren/[Arrays und Schleifen] E Array leeren.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Arrays und Schleifen] E Arrays lesen, schreiben und erzeugen/[Arrays und Schleifen] E Arrays lesen, schreiben und erzeugen.iml" filepath="$PROJECT_DIR$/[Arrays und Schleifen] E Arrays lesen, schreiben und erzeugen/[Arrays und Schleifen] E Arrays lesen, schreiben und erzeugen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Arrays und Schleifen] E Ein Array verändern/[Arrays und Schleifen] E Ein Array verändern.iml" filepath="$PROJECT_DIR$/[Arrays und Schleifen] E Ein Array verändern/[Arrays und Schleifen] E Ein Array verändern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Arrays und Schleifen] M Aufgaben mit Int-Arrays/[Arrays und Schleifen] M Aufgaben mit Int-Arrays.iml" filepath="$PROJECT_DIR$/[Arrays und Schleifen] M Aufgaben mit Int-Arrays/[Arrays und Schleifen] M Aufgaben mit Int-Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Arrays und Schleifen] M Elemente eines Arrays vertauschen/[Arrays und Schleifen] M Elemente eines Arrays vertauschen.iml" filepath="$PROJECT_DIR$/[Arrays und Schleifen] M Elemente eines Arrays vertauschen/[Arrays und Schleifen] M Elemente eines Arrays vertauschen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Arrays und Schleifen] S Arrays und Schleifen/[Arrays und Schleifen] S Arrays und Schleifen.iml" filepath="$PROJECT_DIR$/[Arrays und Schleifen] S Arrays und Schleifen/[Arrays und Schleifen] S Arrays und Schleifen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Basic] Begrüßung/[Basic] Begrüßung.iml" filepath="$PROJECT_DIR$/[Basic] Begrüßung/[Basic] Begrüßung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Basic] Eine Zahl inkrementieren und dekrementieren/[Basic] Eine Zahl inkrementieren und dekrementieren.iml" filepath="$PROJECT_DIR$/[Basic] Eine Zahl inkrementieren und dekrementieren/[Basic] Eine Zahl inkrementieren und dekrementieren.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Basic] Eine Zahl negieren/[Basic] Eine Zahl negieren.iml" filepath="$PROJECT_DIR$/[Basic] Eine Zahl negieren/[Basic] Eine Zahl negieren.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Basic] Flächenberechnung/[Basic] Flächenberechnung.iml" filepath="$PROJECT_DIR$/[Basic] Flächenberechnung/[Basic] Flächenberechnung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Basic] Hello, World/[Basic] Hello, World.iml" filepath="$PROJECT_DIR$/[Basic] Hello, World/[Basic] Hello, World.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Basic] Integer-Werte addieren/[Basic] Integer-Werte addieren.iml" filepath="$PROJECT_DIR$/[Basic] Integer-Werte addieren/[Basic] Integer-Werte addieren.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Basic] Return Übungen/[Basic] Return Übungen.iml" filepath="$PROJECT_DIR$/[Basic] Return Übungen/[Basic] Return Übungen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Basic] Taschenrechner/[Basic] Taschenrechner.iml" filepath="$PROJECT_DIR$/[Basic] Taschenrechner/[Basic] Taschenrechner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Exceptions] E Bank Exceptions/[Exceptions] E Bank Exceptions.iml" filepath="$PROJECT_DIR$/[Exceptions] E Bank Exceptions/[Exceptions] E Bank Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Exceptions] E Exceptions fangen/[Exceptions] E Exceptions fangen.iml" filepath="$PROJECT_DIR$/[Exceptions] E Exceptions fangen/[Exceptions] E Exceptions fangen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Exceptions] E Exceptions werfen/[Exceptions] E Exceptions werfen.iml" filepath="$PROJECT_DIR$/[Exceptions] E Exceptions werfen/[Exceptions] E Exceptions werfen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Exceptions] M Experimente mit Exceptions/[Exceptions] M Experimente mit Exceptions.iml" filepath="$PROJECT_DIR$/[Exceptions] M Experimente mit Exceptions/[Exceptions] M Experimente mit Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Exceptions] S Datenbank Exceptions/[Exceptions] S Datenbank Exceptions.iml" filepath="$PROJECT_DIR$/[Exceptions] S Datenbank Exceptions/[Exceptions] S Datenbank Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Generics] E Ordner/[Generics] E Ordner.iml" filepath="$PROJECT_DIR$/[Generics] E Ordner/[Generics] E Ordner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Generics] M Das Interface Compareable/[Generics] M Das Interface Compareable.iml" filepath="$PROJECT_DIR$/[Generics] M Das Interface Compareable/[Generics] M Das Interface Compareable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Generics] M Raw Types/[Generics] M Raw Types.iml" filepath="$PROJECT_DIR$/[Generics] M Raw Types/[Generics] M Raw Types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Graphen] S Straßennetz/[Graphen] S Straßennetz.iml" filepath="$PROJECT_DIR$/[Graphen] S Straßennetz/[Graphen] S Straßennetz.iml" />
+    </modules>
+  </component>
+</project>
