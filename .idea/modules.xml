@@ -37,6 +37,11 @@
       <module fileurl="file://$PROJECT_DIR$/[If] M Blackjack/[If] M Blackjack.iml" filepath="$PROJECT_DIR$/[If] M Blackjack/[If] M Blackjack.iml" />
       <module fileurl="file://$PROJECT_DIR$/[If] M Pythagoreische Tripel/[If] M Pythagoreische Tripel.iml" filepath="$PROJECT_DIR$/[If] M Pythagoreische Tripel/[If] M Pythagoreische Tripel.iml" />
       <module fileurl="file://$PROJECT_DIR$/[If] M Schaltjahre/[If] M Schaltjahre.iml" filepath="$PROJECT_DIR$/[If] M Schaltjahre/[If] M Schaltjahre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Interface] E Fahrzeuge/[Interface] E Fahrzeuge.iml" filepath="$PROJECT_DIR$/[Interface] E Fahrzeuge/[Interface] E Fahrzeuge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Interface] E Spiele/[Interface] E Spiele.iml" filepath="$PROJECT_DIR$/[Interface] E Spiele/[Interface] E Spiele.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Interface] M Geometrie/[Interface] M Geometrie.iml" filepath="$PROJECT_DIR$/[Interface] M Geometrie/[Interface] M Geometrie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Interface] M Tastatur/[Interface] M Tastatur.iml" filepath="$PROJECT_DIR$/[Interface] M Tastatur/[Interface] M Tastatur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Interface] S Elektronikgeräte/[Interface] S Elektronikgeräte.iml" filepath="$PROJECT_DIR$/[Interface] S Elektronikgeräte/[Interface] S Elektronikgeräte.iml" />
     </modules>
   </component>
 </project>
