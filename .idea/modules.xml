@@ -42,6 +42,13 @@
       <module fileurl="file://$PROJECT_DIR$/[Interface] M Geometrie/[Interface] M Geometrie.iml" filepath="$PROJECT_DIR$/[Interface] M Geometrie/[Interface] M Geometrie.iml" />
       <module fileurl="file://$PROJECT_DIR$/[Interface] M Tastatur/[Interface] M Tastatur.iml" filepath="$PROJECT_DIR$/[Interface] M Tastatur/[Interface] M Tastatur.iml" />
       <module fileurl="file://$PROJECT_DIR$/[Interface] S Elektronikgeräte/[Interface] S Elektronikgeräte.iml" filepath="$PROJECT_DIR$/[Interface] S Elektronikgeräte/[Interface] S Elektronikgeräte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Listen] E Grundfunktionen/[Listen] E Grundfunktionen.iml" filepath="$PROJECT_DIR$/[Listen] E Grundfunktionen/[Listen] E Grundfunktionen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Listen] E Warteschlange/[Listen] E Warteschlange.iml" filepath="$PROJECT_DIR$/[Listen] E Warteschlange/[Listen] E Warteschlange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Listen] M Erweiterte Funktionen/[Listen] M Erweiterte Funktionen.iml" filepath="$PROJECT_DIR$/[Listen] M Erweiterte Funktionen/[Listen] M Erweiterte Funktionen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Listen] M Liste mit Integern/[Listen] M Liste mit Integern.iml" filepath="$PROJECT_DIR$/[Listen] M Liste mit Integern/[Listen] M Liste mit Integern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Listen] M Liste mit Strings/[Listen] M Liste mit Strings.iml" filepath="$PROJECT_DIR$/[Listen] M Liste mit Strings/[Listen] M Liste mit Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Listen] M Schlümpfe/[Listen] M Schlümpfe.iml" filepath="$PROJECT_DIR$/[Listen] M Schlümpfe/[Listen] M Schlümpfe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Listen] S Aufgaben für Fortgeschrittene/[Listen] S Aufgaben für Fortgeschrittene.iml" filepath="$PROJECT_DIR$/[Listen] S Aufgaben für Fortgeschrittene/[Listen] S Aufgaben für Fortgeschrittene.iml" />
     </modules>
   </component>
 </project>
