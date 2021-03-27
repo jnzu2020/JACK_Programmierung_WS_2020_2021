@@ -64,6 +64,21 @@
       <module fileurl="file://$PROJECT_DIR$/[Rekursion] S Binärer Baum mit Integern/[Rekursion] S Binärer Baum mit Integern.iml" filepath="$PROJECT_DIR$/[Rekursion] S Binärer Baum mit Integern/[Rekursion] S Binärer Baum mit Integern.iml" />
       <module fileurl="file://$PROJECT_DIR$/[Rekursion] U Die Gaußsche Summenformel/[Rekursion] U Die Gaußsche Summenformel.iml" filepath="$PROJECT_DIR$/[Rekursion] U Die Gaußsche Summenformel/[Rekursion] U Die Gaußsche Summenformel.iml" />
       <module fileurl="file://$PROJECT_DIR$/[Rekursion] U Parität mittels Rekursion ermitteln (Einstieg)/[Rekursion] U Parität mittels Rekursion ermitteln (Einstieg).iml" filepath="$PROJECT_DIR$/[Rekursion] U Parität mittels Rekursion ermitteln (Einstieg)/[Rekursion] U Parität mittels Rekursion ermitteln (Einstieg).iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Schleifen] E Den Logarithmus berechnen/[Schleifen] E Den Logarithmus berechnen.iml" filepath="$PROJECT_DIR$/[Schleifen] E Den Logarithmus berechnen/[Schleifen] E Den Logarithmus berechnen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Schleifen] E Die For-Schleife (Einstieg)/[Schleifen] E Die For-Schleife (Einstieg).iml" filepath="$PROJECT_DIR$/[Schleifen] E Die For-Schleife (Einstieg)/[Schleifen] E Die For-Schleife (Einstieg).iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Schleifen] M Ein Quadrat aus/[Schleifen] M Ein Quadrat aus.iml" filepath="$PROJECT_DIR$/[Schleifen] M Ein Quadrat aus/[Schleifen] M Ein Quadrat aus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Schleifen] M Quersumme/[Schleifen] M Quersumme.iml" filepath="$PROJECT_DIR$/[Schleifen] M Quersumme/[Schleifen] M Quersumme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Schleifen] S Eine Pyramide aus/[Schleifen] S Eine Pyramide aus.iml" filepath="$PROJECT_DIR$/[Schleifen] S Eine Pyramide aus/[Schleifen] S Eine Pyramide aus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Streams] E Streams und Listen/[Streams] E Streams und Listen.iml" filepath="$PROJECT_DIR$/[Streams] E Streams und Listen/[Streams] E Streams und Listen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Streams] M Map, Reduce, und Filter/[Streams] M Map, Reduce, und Filter.iml" filepath="$PROJECT_DIR$/[Streams] M Map, Reduce, und Filter/[Streams] M Map, Reduce, und Filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Strings, Schleifen] M Binärsystem/[Strings, Schleifen] M Binärsystem.iml" filepath="$PROJECT_DIR$/[Strings, Schleifen] M Binärsystem/[Strings, Schleifen] M Binärsystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Strings, Schleifen] M Palindrome/[Strings, Schleifen] M Palindrome.iml" filepath="$PROJECT_DIR$/[Strings, Schleifen] M Palindrome/[Strings, Schleifen] M Palindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Strings, Schleifen] S Caeser Chiffrierung/[Strings, Schleifen] S Caeser Chiffrierung.iml" filepath="$PROJECT_DIR$/[Strings, Schleifen] S Caeser Chiffrierung/[Strings, Schleifen] S Caeser Chiffrierung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Variablen] E Zugriff auf Variablen/[Variablen] E Zugriff auf Variablen.iml" filepath="$PROJECT_DIR$/[Variablen] E Zugriff auf Variablen/[Variablen] E Zugriff auf Variablen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Vererbung] E Vererbung Basic (Einstieg)/[Vererbung] E Vererbung Basic (Einstieg).iml" filepath="$PROJECT_DIR$/[Vererbung] E Vererbung Basic (Einstieg)/[Vererbung] E Vererbung Basic (Einstieg).iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Vererbung] M Hund, Katze, Maus/[Vererbung] M Hund, Katze, Maus.iml" filepath="$PROJECT_DIR$/[Vererbung] M Hund, Katze, Maus/[Vererbung] M Hund, Katze, Maus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Vererbung] M Häuser/[Vererbung] M Häuser.iml" filepath="$PROJECT_DIR$/[Vererbung] M Häuser/[Vererbung] M Häuser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/[Vererbung] M Lebewesen/[Vererbung] M Lebewesen.iml" filepath="$PROJECT_DIR$/[Vererbung] M Lebewesen/[Vererbung] M Lebewesen.iml" />
     </modules>
   </component>
 </project>
